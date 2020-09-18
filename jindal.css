@@ -1,0 +1,62 @@
+body{
+	background-color:rgba(254,233,255,0);
+	font-size: 125%;
+	background: url(jindal4.jpg);
+	background-size:100%100%;
+}
+h2,h1{
+background-color:rgba(255,255,255,0.5);	
+text-align: center;
+font-family:Arial; 
+}
+
+
+article{
+	
+	color: black;
+	/*background: url(k.jpg);*/
+	/*background-size:100%100%;*/
+	font-family:comic sans MS;
+	background-color:rgba(254,233,255,0.3);
+}
+h1
+{
+	font-family:arial;
+	
+	
+}
+#l
+{
+	background-color:rgba(254,233,255,0.3);
+}
+div{
+	
+	background-color:rgba(254,233,255,0.3);
+		font-family:comic sans MS;
+
+}
+button {
+  background-color: black; /* Green */
+  border: outset;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  width:19.2%
+  
+
+  
+  font-size: 16px;
+  width:19.5%;
+}
+blocquote
+{
+	
+	
+	
+}
+
+button:hover {
+        background-color: #fff;
+        color: #000;
+    }
